@@ -1,0 +1,53 @@
+.build-image {
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    border-top-color: black;
+  }
+  .build-image:hover {
+    box-shadow: 0 0 2px 2px gray;
+  }
+  
+  .build-card {
+    background: #DCD8BD;
+    color: #06080c;
+    padding:  15px 15px  5px 15px;
+    margin: 5px;
+    border-radius: 10px;
+  }
+  
+  .build-type{
+    display: block;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+  
+  }
+  
+  .build-name {
+    display: block;
+    font-size: 15x;
+    text-align: center;
+    color: black;
+    font-weight: bold
+    
+  
+  
+  }
+  
+  .build-architect {
+    font-size: 15px;
+    text-align: left;
+    color: black;
+  
+  }
+  
+  .build-architect span {
+    margin-left: 5px;
+    color: black;
+    font-size: 15px;
+  }
+  
+  .smallLogo{
+    padding:  5px 10px  1px 0px;;
+  }
