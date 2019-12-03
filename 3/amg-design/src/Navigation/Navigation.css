@@ -1,0 +1,28 @@
+.Navigation {
+    width: 100%;
+    height: 100%;
+    background-color: #F6F6F6;
+    color: black;
+  
+    top: 0;
+    font-weight: bold;
+    font-style: italic;
+    font-weight: 300;
+    padding-top: 0.5%;
+    padding-bottom: 0%;
+
+    
+  }
+  
+  #logo {
+    width: 50px;
+    margin-top: -1%;
+  }
+
+  #logo:hover{
+    border:solid;
+    border-width: 1px;
+    color: black;
+    border-radius: 15px;
+    cursor: pointer;
+  }

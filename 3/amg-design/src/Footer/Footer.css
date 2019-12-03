@@ -1,0 +1,26 @@
+.Footer {
+
+    width: 100%;
+    background-color: #F6F6F6;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    height: 6vh;
+    font-weight: bold;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+  }
+ 
+  #logoo {
+    width: 50px;
+    margin-top: -1.19%;
+  }
+
+  #logo :hover{
+    border: solid;
+    color: gray;
+    border-radius: 15px;
+  }
+
+  
+  
